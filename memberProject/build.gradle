@@ -92,6 +92,8 @@ tasks.named('bootBuildImage') {
 	builder = 'paketobuildpacks/builder-jammy-base:latest'
 }
 
+//123456789123124354rasdasdasd
+
 tasks.named('test') {
 	useJUnitPlatform()
 }

@@ -2,3 +2,5 @@
 create user project identified by project;
 
 grant connect, resource, create view to project;
+
+//수정테스트

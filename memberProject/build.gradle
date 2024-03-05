@@ -11,6 +11,7 @@ version = '1.0'
 java {
 	sourceCompatibility = '17'
 }
+// commit 테스트 다녀갑니다 대희희
 // commit 테스트 나도할래 - 유재승
 // commit 테스트 - 허재욱 clone 삭제 후 재 생성 테스트
 // commit 테스트 - 흠;;

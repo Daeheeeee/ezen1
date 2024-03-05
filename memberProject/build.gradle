@@ -11,7 +11,7 @@ version = '1.0'
 java {
 	sourceCompatibility = '17'
 }
-
+// commit 테스트 - 허재욱
 configurations {
 	compileOnly {
 		extendsFrom annotationProcessor
